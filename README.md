@@ -1,2 +1,4 @@
 # nirajrajgor.github.io
-Resume for my web development work
+Resume in Latex.
+
+Download the PDF file to view.
