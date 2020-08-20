@@ -1,4 +1,4 @@
 # nirajrajgor.github.io
 Resume in Latex.
 
-Download the PDF file to view.
+### [View Resume](NirajRajgorSDE1.pdf)
